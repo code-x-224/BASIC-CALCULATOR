@@ -50,5 +50,65 @@ Input_2: 3
 5 + 3 = 8
 Re-run Calculator? (input 1 or 2):
 1. YES
-2. Quit?
+2. Quit? 1
 ```
+### Subtraction
+
+```plaintext
+Input_1: 5
+Operator: -
+Input_2: 3
+5 - 3 = 2
+Re-run Calculator? (input 1 or 2):
+1. YES
+2. Quit? 1
+```
+### Multiplication
+
+```plaintext
+Input_1: 5
+Operator: *
+Input_2: 3
+5 * 3 = 15
+Re-run Calculator? (input 1 or 2):
+1. YES
+2. Quit?1
+```
+## Division
+
+```plaintext
+Input_1: 15
+Operator: /
+Input_2: 0
+Division by zero
+15 / 3 = infinity
+Re-run Calculator? (input 1 or 2):
+1. YES
+2. Quit?1
+```
+## License
+
+This project is licensed under the MIT License.
+
+## Acknowledgments
+
+The development of this Basic Calculator project was made possible through the valuable contributions and inspiration of individuals dedicated to fostering a collaborative coding community. We extend our sincere appreciation to the following contributors:
+
+- **[Your Name]**
+  - Lead Developer and Project Maintainer
+
+- **[Name of Contributor]**
+  - [Role or Contribution]
+
+- **[Name of Contributor]**
+  - [Role or Contribution]
+
+- **[Name of Contributor]**
+  - [Role or Contribution]
+
+Special thanks to the broader coding community for providing support, insights, and fostering an environment of continuous learning. This project is a testament to the collaborative spirit that makes the world of coding so dynamic and innovative.
+
+Feel free to join our community and contribute to the improvement of this project. We appreciate the dedication and passion that each member brings to the table.
+
+Together, we make coding an exciting and fulfilling journey!
+
