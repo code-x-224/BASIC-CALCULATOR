@@ -94,19 +94,38 @@ This project is licensed under the MIT License.
 
 The development of this Basic Calculator project was made possible through the valuable contributions and inspiration of individuals dedicated to fostering a collaborative coding community. We extend our sincere appreciation to the following contributors:
 
-- **[Your Name]**
-  - Lead Developer and Project Maintainer
+- **WacoderForever**
+  - Lead Developer
 
-- **[Name of Contributor]**
-  - [Role or Contribution]
+- **karisacodes**
+  - Project Maintainer
 
-- **[Name of Contributor]**
-  - [Role or Contribution]
+- **s1gm9**
+  - Solution Architecture
 
-- **[Name of Contributor]**
-  - [Role or Contribution]
+- **Voste254**
+  - Software Tester
 
-Special thanks to the broader coding community for providing support, insights, and fostering an environment of continuous learning. This project is a testament to the collaborative spirit that makes the world of coding so dynamic and innovative.
+- **nyabs254**
+  - Designer
+
+- **123Origami**
+  - Software Quality Assurance
+
+- **Stephanie Makori**
+  - User interface Design
+
+- **G-coderX**
+  - User Experience Design
+
+- **magwach**
+  - Product Manager
+
+- **Halkano_Arero**
+  - Scrum Master
+
+
+Special thanks to the group members. This project is a testament to the collaborative spirit that makes the world of coding so dynamic and innovative.
 
 Feel free to join our community and contribute to the improvement of this project. We appreciate the dedication and passion that each member brings to the table.
 
